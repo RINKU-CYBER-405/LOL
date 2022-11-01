@@ -1,3 +1,3 @@
-print(' Fucking By Tor Abbu')
+print(' FUCKING BY TOR ABBU ABLAMI KORLE LATTI DIMU TOR MAR VUDATE')
 
 import CRACK
